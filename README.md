@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Inspiration: https://github.com/Louise-h-aa -->
 
-<!--
-**simmuuu/simmuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <samp><br>
+   Hey there, I'm Simmu!<br>
+   I’m currently learning JavaScript, Java & MERN, while diving into DevOps. <br>
+   In the meantime, I'm working on developing React projects and looking to contribute to other open-source projects.<br>
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="https://www.linkedin.com/in/sathvik-reddy-padi/">linkedin</a>
+   ~ </samp><br><br>  
+</p>
+</p>
